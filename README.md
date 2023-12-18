@@ -10,3 +10,9 @@
 1. git pull origin main
 2. make setup  [start app: http://localhost:8080/]
 3. make stop [stop app]
+
+## For Login
+
+1. Server : mariadb
+2. Username: root
+3. Password: root
